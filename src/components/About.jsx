@@ -13,16 +13,16 @@ export default function About() {
                 <span className="text-orange font-heading text-sm tracking-wider">THE 1980s</span>
                 <h3 className="text-xl font-bold mt-1 mb-2">Where It All Started</h3>
                 <p className="text-white/60 leading-relaxed">
-                  A-1 Liquors Wholesale opens its doors at 663 Sam Houston Ave, quickly becoming a Huntsville staple. Cold beer, fair prices, and a handshake you could count on.
+                  A-1 Liquor opens its doors at 2602 Sam Houston Ave, quickly becoming a Huntsville staple. Cold beer, fair prices, and a handshake you could count on.
                 </p>
               </div>
 
               <div className="pl-12 relative">
                 <div className="absolute left-2.5 top-1 w-3 h-3 rounded-full bg-orange shadow-lg shadow-orange/50" />
-                <span className="text-orange font-heading text-sm tracking-wider">THE MOVE</span>
-                <h3 className="text-xl font-bold mt-1 mb-2">New Address, Same Spirit</h3>
+                <span className="text-orange font-heading text-sm tracking-wider">THROUGH THE YEARS</span>
+                <h3 className="text-xl font-bold mt-1 mb-2">A Huntsville Tradition</h3>
                 <p className="text-white/60 leading-relaxed">
-                  The store relocates up Sam Houston Ave to 2602 — a bigger space for a growing community. Still the same A-1 people know and trust.
+                  Through homecomings, championships, and everyday celebrations — A-1 has been there. New owners came in and kept the tradition alive at the same address Huntsville has always known.
                 </p>
               </div>
 
@@ -31,7 +31,7 @@ export default function About() {
                 <span className="text-orange font-heading text-sm tracking-wider">TODAY</span>
                 <h3 className="text-xl font-bold mt-1 mb-2">Four Decades Strong</h3>
                 <p className="text-white/60 leading-relaxed">
-                  Still independently owned. Still on Sam Houston Ave. Now with A+ Donuts next door. Generations of Huntsville have walked through these doors.
+                  Still independently owned. Still at 2602 Sam Houston Ave — the same spot it's always been. Now with A+ Donuts next door. Generations of Huntsville have walked through these doors.
                 </p>
               </div>
             </div>
@@ -44,7 +44,7 @@ export default function About() {
               FOUR DECADES<br />ON THE AVE
             </h2>
             <p className="text-white/60 text-lg leading-relaxed mb-6">
-              A-1 Liquor isn't a franchise. It isn't a chain. It's a Huntsville institution — built by one family, trusted by a whole town.
+              A-1 Liquor isn't a franchise. It isn't a chain. It's a Huntsville institution — rooted at 2602 Sam Houston Ave for over 40 years.
             </p>
             <p className="text-white/60 text-lg leading-relaxed mb-6">
               Since the 1980s, we've been the place Huntsville comes for celebrations, game days, weeknight wind-downs, and everything in between. SHSU students discover us freshman year and keep coming back as alumni. TDCJ families stop in after long shifts. Neighbors grab a six-pack on the way to a cookout.
